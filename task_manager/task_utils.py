@@ -6,7 +6,7 @@
 #  "due_date": "2024-06-26",
 #  "completed": True}
 
-from validation import *
+from task_manager.validation import *
 
 # Define tasks list
 tasks = [{"title": "Conquer Normandy", "description": "RARRRRGH!", "due_date": "1099-04-30", "completed": True},

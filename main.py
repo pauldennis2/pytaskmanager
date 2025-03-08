@@ -1,6 +1,6 @@
 # This is a Task Management app.
 # This module is responsible for handling the CLI
-from task_utils import *
+from task_manager.task_utils import *
 
 def print_menu():
     print("Task Management System")
